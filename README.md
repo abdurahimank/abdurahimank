@@ -22,7 +22,7 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/abdurahimank009/))   
+- [LinkedIn](https://www.linkedin.com/in/abdurahimank009/)   
 - [Email](mailto:phd24abdurahimank@iima.ac.in)  
 
 ---
