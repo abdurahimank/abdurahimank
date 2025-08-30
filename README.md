@@ -35,9 +35,8 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/) (add your profile link)  
-- [Google Scholar](https://scholar.google.com/) (if you want to add)  
-- [Email](mailto:your-email@example.com)  
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/abdurahimank009/))   
+- [Email](mailto:phd24abdurahimank@iima.ac.in)  
 
 ---
 
