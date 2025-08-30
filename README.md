@@ -13,24 +13,11 @@
 
 ---
 
-## 🌱 Long-Term Goals
-- Work as an **Investment Consultant, Business Analyst, and AI Scientist**  
-- Advance the integration of **mathematics, machine learning, and financial markets**  
-
----
-
 ## 🛠️ Skills & Tools
 - **Mathematics & Optimization:** Linear/Nonlinear Programming, Decision Models  
 - **Programming:** Python, C++, Pyomo, Arena Simulation, IBM CPLEX  
 - **AI/ML:** Machine Learning & Data Science for decision-making  
 - **Finance & Trading:** Portfolio optimization, behavioral insights, market analysis  
-
----
-
-## 📚 Current Learning Journey
-- Deepening knowledge in **optimization techniques**  
-- Applying **simulation & modeling** to real-world systems  
-- Exploring the intersection of **psychology and financial trading**  
 
 ---
 
